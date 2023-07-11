@@ -14,7 +14,7 @@ def gestion_randonnee():
     
      
 
-    server = 'DESKTOP-TFQNRQ4\SQLEXPRESS'
+    server = 'DESKTOP-Me\SQLEXPRESS'
     database = 'Mabase'
     trusted_connection = 'yes'
     choix_utilisateur = input("\t\tVeuillez entrer votre choix (1 à 5) : ")
